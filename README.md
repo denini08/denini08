@@ -4,10 +4,10 @@
 
 I am Denini Gabriel: <br>
 - 😄 Pronouns: He/Him <br>
-- 🎓 Msc Student in Computer Science at [CIn-UFPE ](https://cin.ufpe.br/), Advised by [Prof. Dr. Marcelo d’Amorim](https://cin.ufpe.br/~damorim/)
+- 🎓 PhD Student in Computer Science at [CIn-UFPE ](https://cin.ufpe.br/), Advised by [Prof. Dr. Marcelo d’Amorim](https://cin.ufpe.br/~damorim/)
 - 🔭 I’m currently researching in the area of flakies tests
 - 🇧🇷 I'm from Brazil and looking for opportunities in other countries
-- 💻 Good with Python and Javascript
+- 💻 Good with Python, Java and Javascript
 - 📈 Our research group: [STAR](https://github.com/STAR-RG/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-sonawane&layout=compact)
