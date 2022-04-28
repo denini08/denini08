@@ -8,7 +8,7 @@ I am Denini Gabriel: <br>
 - 🔭 I’m currently researching in the area of flakies tests
 - 🇧🇷 I'm from Brazil and looking for opportunities in other countries
 - 💻 Good with Python, Java and Javascript
-- 📈 Our research group: [STAR](https://github.com/STAR-RG/)
+- 📈 Coding and researching with our research group: [STAR](https://github.com/STAR-RG/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkya-sonawane&layout=compact)
 
