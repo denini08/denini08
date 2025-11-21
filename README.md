@@ -4,8 +4,9 @@
 
 I am Denini Gabriel: <br>
 - 😄 Pronouns: He/Him <br>
+- 👨‍🏫 Assistant Professor at the [University of Pernambuco — UPE](https://upe.br)
 - 🎓 PhD Student in Computer Science at [CIn-UFPE ](https://cin.ufpe.br/), Advised by [Prof. Dr. Marcelo d’Amorim](https://cin.ufpe.br/~damorim/)
-- 🔭 I’m currently researching in the area of flakies tests
+- 🔭 I’m currently researching in the area of flaky tests
 - 🇧🇷 I'm from Brazil and looking for opportunities in other countries
 - 💻 Good with Python, Java and Javascript
 - 📈 Coding and researching with our research group: [STAR](https://github.com/STAR-RG/)
